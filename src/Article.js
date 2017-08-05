@@ -30,3 +30,6 @@ import React, {Component} from 'react'
  }
 
 export default Article;
+
+//прочитать, установить данные из состояния
+//отрисовать данные
